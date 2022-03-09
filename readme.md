@@ -19,7 +19,7 @@ any version of HTML.
 ## Install
 
 ```sh
-pip install html-tag-names
+pip install html-void-elements
 ```
 
 ## Use
@@ -62,6 +62,6 @@ Yields:
 ## License
 
 [GPL][license] © Riverside Healthcare
-Ported from `html-void-elements` [MIT][license] © [Titus Wormer][author]
+Ported from `html-void-elements` [MIT][license] © [Titus Wormer][https://github.com/wooorm]
 
 [license]: LICENSE
