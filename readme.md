@@ -1,4 +1,4 @@
-# HtmlTagNames
+# HtmlVoidElements
 
 Python port of npm package [html-void-elements](https://www.npmjs.com/package/html-void-elements).
 
@@ -6,14 +6,11 @@ List of known HTML tag names.
 
 ## What is this?
 
-This is a list of HTML tag names.
-It includes ancient (for example, `nextid` and `basefont`) and modern (for
-example, `shadow` and `template`) names from the HTML living standard.
-The repo includes scripts to regenerate the data from the specs.
+This is a list of HTML void tag names.
 
 ## When should I use this?
 
-You can use this package when you need to know what tag names are allowed in
+You can use this package when you need to know what void tag names are allowed in
 any version of HTML.
 
 ## Install
