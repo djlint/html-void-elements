@@ -1,0 +1,37 @@
+{
+  "name": "html-void-elements",
+  "version": "0.1.0",
+  "description": "List of known HTML void tag names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git add . && pre-commit run && git add . && cz --no-verify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riverside-Healthcare/html-void-elements.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GLP-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Riverside-Healthcare/html-void-elements/issues"
+  },
+  "homepage": "https://github.com/Riverside-Healthcare/html-void-elements#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/commit-analyzer": "^9.0.2",
+    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^8.0.4",
+    "@semantic-release/npm": "^9.0.1",
+    "@semantic-release/release-notes-generator": "^10.0.3",
+    "cz-conventional-changelog": "^3.3.0",
+    "semantic-release": "^19.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
