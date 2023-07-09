@@ -1,6 +1,6 @@
 {
   "name": "html-void-elements",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "description": "List of known HTML void tag names.",
   "private": true,
   "main": "index.js",
@@ -26,9 +26,9 @@
     "@semantic-release/git": "10.0.1",
     "@semantic-release/github": "9.0.3",
     "@semantic-release/npm": "10.0.4",
-    "@semantic-release/release-notes-generator": "11.0.3",
+    "@semantic-release/release-notes-generator": "11.0.4",
     "cz-conventional-changelog": "3.3.0",
-    "semantic-release": "21.0.6"
+    "semantic-release": "21.0.7"
   },
   "config": {
     "commitizen": {
