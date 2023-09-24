@@ -1,6 +1,6 @@
 {
   "name": "html-void-elements",
-  "version": "0.1.27",
+  "version": "0.1.28",
   "description": "List of known HTML void tag names.",
   "private": true,
   "main": "index.js",
@@ -21,11 +21,11 @@
   "homepage": "https://github.com/Riverside-Healthcare/html-void-elements#readme",
   "devDependencies": {
     "@semantic-release/changelog": "6.0.3",
-    "@semantic-release/commit-analyzer": "10.0.4",
+    "@semantic-release/commit-analyzer": "11.0.0",
     "@semantic-release/exec": "6.0.3",
     "@semantic-release/git": "10.0.1",
     "@semantic-release/github": "9.0.6",
-    "@semantic-release/npm": "10.0.6",
+    "@semantic-release/npm": "11.0.0",
     "@semantic-release/release-notes-generator": "12.0.0",
     "cz-conventional-changelog": "3.3.0",
     "semantic-release": "21.1.2"
